@@ -1,0 +1,233 @@
+# Copyright (C) 2022 Infinite Pay
+# This file is distributed under the same license as the InfinitePay payments for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: InfinitePay for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-infinitepay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-06T14:14:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: infinitepay-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "InfinitePay payments for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Infinite Pay"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://infinitepay.io/"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:71
+msgid "Accept credit cards payments with InfinitePay"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:81
+msgid "Enabled/Disabled"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:83
+msgid "Enable payments with InfinitePay"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:87
+msgid "Payment Title"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:89
+msgid "Title that will be shown for the customers on your checkout page"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:90
+msgid "Credit Card"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:94
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:96
+msgid "Description that will be shown for the customers on your checkout page"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:101
+msgid "Instructions"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:103
+msgid "Instructions that will be shown on thank you page and will be sent on email"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:108
+msgid "Maximum number of installments"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:110
+msgid "Maximum number of installments that a customer can split the final amount"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:115
+msgid "Maximum number of installments without interest"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:117
+msgid "Maximum number of installments that a customer can split the final amount without interest"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:122
+msgid "API Key"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:124
+msgid "Key to connect with InfinitePay"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:348
+msgid "Installments"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:349
+msgid "Final amount"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:350
+msgid "NSU"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:360
+#: includes/class-wc-wooinfinitepay-init.php:366
+msgid "Please review your card information and try again"
+msgstr ""
+
+#: includes/class-wc-wooinfinitepay-init.php:363
+msgid "Ooops, an internal error has occurred, contact an administrator!"
+msgstr ""
+
+#: src/Fields/CredentialsFields.php:19
+msgid "Store environment"
+msgstr ""
+
+#: src/Fields/CredentialsFields.php:47
+msgid "Click here"
+msgstr ""
+
+#: src/Fields/CredentialsFields.php:48
+msgid "to create an account or request plugin credentials"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:14
+msgid "Enable InfinitePay Logo?"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:16
+msgid "Enable Logo"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:20
+msgid "Credit Card Payment approved"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:27
+msgid "PIX Payment approved"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:27
+msgid "Payment canceled"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:34
+msgid "Enable logs"
+msgstr ""
+
+#: src/Fields/ConfigurationsFields.php:38
+msgid "Avaliable on"
+msgstr ""
+
+#: src/Fields/PIXFields.php:14
+msgid "Enable PIX with InfinitePay"
+msgstr ""
+
+#: src/Fields/PIXFields.php:19
+msgid "Discount (%)"
+msgstr ""
+
+#: src/Fields/PIXFields.php:33
+msgid "Minimum value (R$)"
+msgstr ""
+
+#: src/InfinitePayCore.php:80
+msgid "Access the"
+msgstr ""
+
+#: src/InfinitePayCore.php:81
+msgid "to obtain your credentials"
+msgstr ""
+
+#: src/Controller/Settings.php:91
+msgid "Credentials"
+msgstr ""
+
+#: src/Controller/Settings.php:91
+msgid "Settings"
+msgstr ""
+
+#: src/Fields/CreditCardFields.php:91
+msgid "Enable Credit Card with InfinitePay"
+msgstr ""
+
+#: src/InfinitePayCore.php:91
+msgid "Accept payments with InfinitePay"
+msgstr ""
+
+#: src/Fields/CredentialsFields.php:19
+msgid "Production"
+msgstr ""
+
+#: templates/checkout/checkout.php:155
+msgid "Value with discount"
+msgstr ""
+
+#: src/InfinitePayCore.php:79
+msgid "NOTICE: Before receiving payments using InfinitePay, you must:"
+msgstr ""
+
+#: src/InfinitePayCore.php:82
+msgid "Configure access credentials (Client ID and Client Secret, visit the Credentials tab for more information)"
+msgstr ""
+
+#: src/InfinitePayCore.php:85
+msgid "Disable Sandbox mode (sandbox environment should only be used for testing, sales will not be effected on your InfinitePay account)"
+msgstr ""
+
+#: src/InfinitePayCore.php:88
+msgid "Go to configuration"
+msgstr ""
+
+#: templates/checkout/checkout.php:185
+msgid "Discounted value"
+msgstr ""
+
+#: templates/checkout/checkout.php:187
+msgid "Checkout to display the QRCode"
+msgstr ""
+
+#: templates/checkout/checkout.php:188
+msgid "Open your bank app and select the option to pay with PIX/Scan QRCode"
+msgstr ""
+
+#: templates/checkout/checkout.php:189
+msgid "Check the data and confirm your payment through your bank's app"
+msgstr ""
+
+#: templates/checkout/checkout.php:229
+msgid "The minimum amount for the PIX is BRL 1.00"
+msgstr ""
+
